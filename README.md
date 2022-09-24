@@ -28,19 +28,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/jjlittle20/data-address-bus-display">
-    <img src="images/dataaddrdisplaypcb.png" alt="Logo" width="80" height="80">
+    <img src="images/dataaddrdisplaypcb.png" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">Data & Address Eeprom Display</h3>
 
   <p align="center">
- 
-    
-   
-    <br />
-    
     <a href="https://github.com/jjlittle20/data-address-bus-display/issues">Report Bug</a>
-    ·
     <a href="https://github.com/jjlittle20/data-address-bus-display/issues">Request Feature</a>
   </p>
 </div>
@@ -74,7 +68,9 @@
 ## About The Project
 
 Part of my z80 homebrew computer build. This is a prototype for a card that will be used to show address and data values and will help debugging in the future.This repo contains the prototype which will read out the values in an eeprom and address lines from dip switches.
-<img src="images/data_address_img.png" alt="Logo" width="80" height="80">
+<br/>
+
+<div align="center"><img src="images/data_address_img.png" alt="Logo" width="200" height="200"></div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
